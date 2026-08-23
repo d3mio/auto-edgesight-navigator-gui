@@ -1,0 +1,10 @@
+{
+  "devices": [
+    {"name": "Edge-Device-001", "location": "New York"},
+    {"name": "Edge-Device-002", "location": "London"},
+    {"name": "Edge-Device-003", "location": "Tokyo"},
+    {"name": "Edge-Device-004", "location": "Sydney"},
+    {"name": "Edge-Device-005", "location": "Berlin"}
+  ],
+  "refresh_interval": 5
+}
